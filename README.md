@@ -22,7 +22,7 @@ Este projeto envolve a implementação de quatro funções essenciais em JavaScr
 - HTML / CSS / JS
 
 # Autor
-Base HTML/CSS: Alura.
+Base HTML/CSS: Alura.<br>
 Funções JS: Guilherme Henrique Pereira
 
 https://www.linkedin.com/in/guilherme-henrique-sousa-pereira
